@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/chef.js": {
+      "maxDuration": 30
+    }
+  }
+}
